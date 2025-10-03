@@ -90,3 +90,96 @@ _________
 _________
 25 IDFCLTI-25 Suzlon TIWARI 800 
 __________________
+ISSUANCE DATE: 03/10/2025
+
+QTY: 26831
+
+MP-01: 01/01/2013-31/12/2024
+____________
+Serial Number
+0001-000001-025380-UCR-CoU-IN-520-01012013-31122013
+Vintage Year
+2013
+Quantity in CoU Unsorted
+25380
+___________
+Serial Number
+0001-025381-052800-UCR-CoU-IN-520-01012014-31122014
+Vintage Year
+2014
+Quantity in CoU Unsorted
+27420
+____________
+Serial Number
+0001-052801-078019-UCR-CoU-IN-520-01012015-31122015
+Vintage Year
+2015
+Quantity in CoU Unsorted
+25219
+____________
+Serial Number
+0001-078020-095179-UCR-CoU-IN-520-01012016-31122016
+Vintage Year
+2016
+Quantity in CoU Unsorted
+17160
+____________
+Serial Number
+0001-095180-114818-UCR-CoU-IN-520-01012017-31122017
+Vintage Year
+2017
+Quantity in CoU Unsorted
+19639
+____________
+Serial Number
+0001-114819-137879-UCR-CoU-IN-520-01012018-31122018
+Vintage Year
+2018
+Quantity in CoU Unsorted
+23061
+__________
+Serial Number
+0001-137880-160643-UCR-CoU-IN-520-01012019-31122019
+Vintage Year
+2019
+Quantity in CoU Unsorted
+22764
+__________
+Serial Number
+0001-160644-183343-UCR-CoU-IN-520-01012020-31122020
+Vintage Year
+2020
+Quantity in CoU Unsorted
+22700
+____________
+Serial Number
+0001-183344-207629-UCR-CoU-IN-520-01012021-31122021
+Vintage Year
+2021
+Quantity in CoU Unsorted
+24286
+____________
+Serial Number
+0001-207630-230241-UCR-CoU-IN-520-01012022-31122022
+Vintage Year
+2022
+Quantity in CoU Unsorted
+22612
+__________
+Serial Number: 0001-230242-253088-UCR-CoU-IN-520-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 22847
+______________
+Serial Number: 0001-253089-268831-UCR-CoU-IN-520-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 15743
+____________
+
+
+
+
+
